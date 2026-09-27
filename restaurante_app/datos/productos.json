@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ceviche",
+        "categoria": "Plato principal",
+        "precio": 25.0
+    },
+    {
+        "id": 2,
+        "nombre": "Lomo Saltado",
+        "categoria": "Plato principal",
+        "precio": 30.0
+    },
+    {
+        "id": 3,
+        "nombre": "Jugo de Maracuyá",
+        "categoria": "Bebida",
+        "precio": 8.5
+    }
+]

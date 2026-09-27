@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Admin",
+        "correo": "admin@restaurante.com",
+        "contrasena": "1234",
+        "rol": "administrador"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana García",
+        "correo": "ana@restaurante.com",
+        "contrasena": "1234",
+        "rol": "cliente"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis Pérez",
+        "correo": "luis@restaurante.com",
+        "contrasena": "1234",
+        "rol": "cliente"
+    }
+]
